@@ -1,4 +1,4 @@
-
+wikipedia
 streamlit
 python-dotenv
 langchain-core
